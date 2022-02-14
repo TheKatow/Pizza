@@ -1,0 +1,26 @@
+{
+    "enseigne": "Dolce Pizza",
+    "slogan": "La pizza c'est la vie",
+    "pizza": [
+        {
+            "name": "4 fromages",
+            "prix": "12€",
+            "garnitures": "fromage, fromage, fromage, fromage, creme",
+            "photo": "./pizza1.jpg"
+        },
+   
+        {
+            "name": "Reine",
+            "prix": "13€",
+            "garnitures": "paillettes, clef à mollette, mobylette, crevettes",
+            "photo": "./pizza2.jpg"
+        },
+    
+        {
+            "name": "Roi",
+            "prix": "13€",
+            "garnitures":"pompette, mouillette, celapette, claquette",
+            "photo": "./pizza3.png"
+        }
+    
+    ]}
